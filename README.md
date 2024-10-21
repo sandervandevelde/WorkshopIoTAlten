@@ -10,5 +10,4 @@ If you want more information about the workshop. please contact:
 
 [Sander van de Velde](https://www.linkedin.com/in/sandervandevelde/)
 
-[Wilko van de Velde](https://www.linkedin.com/in/wilkovandevelde/)
 
