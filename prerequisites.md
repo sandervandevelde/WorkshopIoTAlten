@@ -18,11 +18,15 @@ Install the latest versions of the following applications:
 
   > *Note*: You need administrator rights on your laptop to install Node.js.
 
-  > *Note*: This course is tested using the latest LTS version.
+  > *Note*: This course is tested using the latest Node.js LTS version.
 
-  > *Note*: If Node is already installed, check the version with:
+  > *Note*: When Node is already installed, check the version with (execute this in Powershell):
 
       node --version
+
+  > *Note*: Please check the NPM version with (execute this in Powershell):
+
+      npm --version
 
 - <a href="https://github.com/Azure/azure-iot-explorer/releases?WT.mc_id=IoT-MVP-5002324" target="_blank">Azure IoT Explorer</a>
 
